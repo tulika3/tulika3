@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tulika3
+- 👋 Hi, I’m Tulika Tannavi
 - 👀 I’m interested in developing website
 - 🌱 I’m currently learning react Js, hooks, redux
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tulikatannavi30@gmail.com
 
 <!---
